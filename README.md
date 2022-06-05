@@ -33,6 +33,7 @@
 <h4>
     4. Use of third party resources </h4><br>
     <p>
+	<img width="393" alt="4" src="https://user-images.githubusercontent.com/104031616/172044343-2d06150b-ad7a-4035-af13-cd21ad2f6acd.PNG">
 	
 <h4>
     5. References </h4><br>
