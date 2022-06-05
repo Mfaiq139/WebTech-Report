@@ -27,12 +27,24 @@
     3. Group Contributions </h4><br>
     <p>
       Each of the team members prepared web pages for the project as shown in the following table.
-    </p> 
-    
-   | FirstName     | LastName         
-| ------------- | ------------- | 
-| John      | Test1         |
-| Bob         | Test2         |
+    </p> <br>
+    <img width="391" alt="work division" src="https://user-images.githubusercontent.com/104031616/172043395-3d477178-0b7c-4268-af49-e5d5c8171c09.PNG">
 
+<h4>
+    4. Use of third party resources </h4><br>
+    <p>
+	
+<h4>
+    5. References </h4><br>
+    <p>
+	W3Schools is a freemium educational website for learning coding online. Developed in 1998
+    </p>
+    	<p> 
+	https://www.w3schools.com/html/
+	</p>
+
+	
+    
+ 
 
  
